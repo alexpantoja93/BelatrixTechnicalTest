@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-10T23:08:53</date>
+  <millis>1544501333665</millis>
+  <sequence>3</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>INFO</level>
+  <class>pe.com.alexpantoja.logger.LoggerFile</class>
+  <method>addMessage</method>
+  <thread>1</thread>
+  <message>Test File - Message Info</message>
+</record>
+<record>
+  <date>2018-12-10T23:08:53</date>
+  <millis>1544501333665</millis>
+  <sequence>4</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>WARNING</level>
+  <class>pe.com.alexpantoja.logger.LoggerFile</class>
+  <method>addWarning</method>
+  <thread>1</thread>
+  <message>Test File - Warning Info</message>
+</record>
+<record>
+  <date>2018-12-10T23:08:53</date>
+  <millis>1544501333666</millis>
+  <sequence>5</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>SEVERE</level>
+  <class>pe.com.alexpantoja.logger.LoggerFile</class>
+  <method>addError</method>
+  <thread>1</thread>
+  <message>Test File - Error Info</message>
+</record>
+<record>
+  <date>2018-12-10T23:08:53</date>
+  <millis>1544501333893</millis>
+  <sequence>6</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>INFO</level>
+  <class>pe.com.alexpantoja.logger.LoggerDatabase</class>
+  <method>addMessage</method>
+  <thread>1</thread>
+  <message>Test Database - Message Info</message>
+</record>
+<record>
+  <date>2018-12-10T23:08:53</date>
+  <millis>1544501333938</millis>
+  <sequence>7</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>INFO</level>
+  <class>pe.com.alexpantoja.logger.LoggerDatabase</class>
+  <method>addWarning</method>
+  <thread>1</thread>
+  <message>Test Database - Warning Info</message>
+</record>
+<record>
+  <date>2018-12-10T23:08:54</date>
+  <millis>1544501334038</millis>
+  <sequence>8</sequence>
+  <logger>BelatrixLogger</logger>
+  <level>INFO</level>
+  <class>pe.com.alexpantoja.logger.LoggerDatabase</class>
+  <method>addError</method>
+  <thread>1</thread>
+  <message>Test Database - Error Info</message>
+</record>
+</log>
